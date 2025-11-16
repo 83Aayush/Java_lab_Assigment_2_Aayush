@@ -1,4 +1,4 @@
-# 🎓 Student Management System (Java OOP Project)
+# 🎓 Student Management System 
 
 ## 📘 Overview
 This project implements a **Student Management System** in **Java** using the core **Object-Oriented Programming (OOP)** principles:
